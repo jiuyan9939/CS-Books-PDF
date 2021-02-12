@@ -63,7 +63,7 @@
 
 - 《MySQL必知必会》 [百度网盘下载地址](https://pan.baidu.com/s/1eS8GFtO7d_bdAVtYf14lRw) 密码: qn67
 
-- 《MySQL技术内幕 [百度网盘下载地址](https://pan.baidu.com/s/1YpcTsRimDHLD9OHW6YseoQ) 密码: pqc3
+- 《MySQL技术内幕 InnoDB存储引擎  第2版》[百度网盘下载地址](https://pan.baidu.com/s/1YpcTsRimDHLD9OHW6YseoQ) 密码: pqc3
 
 
 
@@ -75,28 +75,28 @@
 
 - 《算法》（第4版） [百度网盘下载地址](https://pan.baidu.com/s/1b1b_nudCsdBdBNa3Um-KTQ) 密码: qwvp
 
-- 《啊哈! [百度网盘下载地址](https://pan.baidu.com/s/19o-dvZ0j2wPGmbY4hkMugA) 密码: etkv
+- 《啊哈!算法》 [百度网盘下载地址](https://pan.baidu.com/s/19o-dvZ0j2wPGmbY4hkMugA) 密码: etkv
 
 - 《算法图解》 [百度网盘下载地址](https://pan.baidu.com/s/1eyepMcmKoK60eg-RUb1J7w) 密码: u1ac
 
 
-- 《数据结构与算法分析 [百度网盘下载地址](https://pan.baidu.com/s/1QnLV1v14MVKlushMnxq85g) 密码: 0e1l
+- 《数据结构与算法分析-C语言描述》 [百度网盘下载地址](https://pan.baidu.com/s/1QnLV1v14MVKlushMnxq85g) 密码: 0e1l
 
-- 《数据结构与算法分析 [百度网盘下载地址](https://pan.baidu.com/s/1rMEduHoBUTZ8ValL4dqWUQ) 密码: te0v
+- 《数据结构与算法分析-Java语言描述》 [百度网盘下载地址](https://pan.baidu.com/s/1rMEduHoBUTZ8ValL4dqWUQ) 密码: te0v
 
-- 《数据结构与算法 [百度网盘下载地址](https://pan.baidu.com/s/1oyHtX-uXwZT21yh02CdhgA) 密码: 7ri1
+- 《数据结构与算法-Python语言描述_裘宗燕》[百度网盘下载地址](https://pan.baidu.com/s/1oyHtX-uXwZT21yh02CdhgA) 密码: 7ri1
 
 
 ## 3.5 其他
 
-- 《汇编语言(第3版) [百度网盘下载地址](https://pan.baidu.com/s/1Mh10VAfVGsc295Dciw8H3w) 密码: a39n
+- 《汇编语言(第3版) 王爽著》[百度网盘下载地址](https://pan.baidu.com/s/1Mh10VAfVGsc295Dciw8H3w) 密码: a39n
 
 
 # 4. 自我提升
 
 - 《编程珠玑》 [百度网盘下载地址](https://pan.baidu.com/s/1HGHhrq3nYXqvNNiDTngRWw) 密码: 6fm5
 
-- 《编程珠玑 [百度网盘下载地址](https://pan.baidu.com/s/19Io1bd_aBnTIUePLKg9M5Q) 密码: ov5n
+- 《编程珠玑-英文版》 [百度网盘下载地址](https://pan.baidu.com/s/19Io1bd_aBnTIUePLKg9M5Q) 密码: ov5n
 
 - 《编程之美》 [百度网盘下载地址](https://pan.baidu.com/s/1v--6scAEjkrBtgL_ufomsA) 密码: 5lre
 
