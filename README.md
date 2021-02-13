@@ -21,7 +21,7 @@
 
 | 书名 | 链接| 密码 |
 | :--:| -- | -- |
-| `LeetCode`刷题笔记(谷歌师兄) | [百度网盘链接](https://pan.baidu.com/s/1axc1UAstJkNDIkFK59fUAg) | oklu |
+| 谷歌师兄刷题笔记 | [百度网盘链接](https://pan.baidu.com/s/1mNp6lt78KiL9NuVhhA6PNg) | kreg |
 | 《大话数据结构》 | [百度网盘链接](https://pan.baidu.com/s/15Dp08e0FB462RkUmAy524w) | mqo6 |
 | 《labuladong的算法小抄》 | [百度网盘链接](https://pan.baidu.com/s/13K1UBifRKsNJ-GInSef_Og) | an4w |
 | 《剑指offer》 | [百度网盘链接](https://pan.baidu.com/s/1XC3DApnMMfeIH3g0BE2GZw) | s7uu |
@@ -34,7 +34,9 @@
 
 ## 2.1_Leetcode/面试刷题
 
-- 谷歌师兄LeetCode刷题笔记 [百度网盘下载地址](https://pan.baidu.com/s/1axc1UAstJkNDIkFK59fUAg) 密码: oklu
+- 谷歌师兄刷题笔记 [百度网盘链接](https://pan.baidu.com/s/1mNp6lt78KiL9NuVhhA6PNg) 密码: kreg
+
+- LeetCode刷题笔记 [百度网盘下载地址](https://pan.baidu.com/s/1axc1UAstJkNDIkFK59fUAg) 密码: oklu
 
 - 《labuladong的算法小抄》 [百度网盘下载地址](https://pan.baidu.com/s/13K1UBifRKsNJ-GInSef_Og) 密码: an4w
 
