@@ -109,6 +109,8 @@
 
 ## 3.5 其他
 
+- 侯捷 C++ 视频 [百度网盘下载地址](https://pan.baidu.com/s/1GoMTk8k83VBK_p94SIexGw) 密码: 9mqf
+
 - 《汇编语言(第3版) 王爽著》[百度网盘下载地址](https://pan.baidu.com/s/1Mh10VAfVGsc295Dciw8H3w) 密码: a39n
 
 
