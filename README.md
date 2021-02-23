@@ -16,6 +16,15 @@
     - [3.3 操作系统](#33_操作系统)
     - [3.4 数据库](#34_数据库)
     - [3.5 Linux/Unix](#35_Linux/Unix)
+    - [3.6 汇编](#36_汇编)
+- [4.语言](#4语言)
+    - [4.1 C](#41_C)
+    - [4.2 Python](#42_Python)
+        - [4.2.1 Python 爬虫](#421_Python爬虫)
+    - [4.3 C++](#43_Cpp)
+    - [4.4 Java](#44_Java)
+    - [4.5 Go](#45_Go)
+    - [4.6 R](#46_R)
 
 # 1.精选大学生必读书单
 
@@ -107,14 +116,35 @@
 
 
 
-## 3.5 其他
+## 3.5_Linux/Unix
 
-- 侯捷 C++ 视频 [百度网盘下载地址](https://pan.baidu.com/s/1GoMTk8k83VBK_p94SIexGw) 密码: 9mqf
+@TODO
 
+## 3.6_汇编
 - 《汇编语言(第3版) 王爽著》[百度网盘下载地址](https://pan.baidu.com/s/1Mh10VAfVGsc295Dciw8H3w) 密码: a39n
 
+# 4.语言
+## 4.1_C
 
-# 4. 自我提升
+@TODO
+## 4.2_Python
+
+### 4.2.1_Python爬虫
+@TODO
+## 4.3_Cpp
+
+- 侯捷 C++ 全套视频（含课件） [百度网盘下载地址](https://pan.baidu.com/s/1GoMTk8k83VBK_p94SIexGw) 密码: 9mqf
+
+## 4.4_Java
+@TODO
+
+## 4.5_Go
+@TODO
+## 4.6_R
+@TODO
+
+
+# 5. 自我提升
 
 - 《编程珠玑》 [百度网盘下载地址](https://pan.baidu.com/s/1HGHhrq3nYXqvNNiDTngRWw) 密码: 6fm5
 
