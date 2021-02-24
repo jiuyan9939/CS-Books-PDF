@@ -127,9 +127,9 @@
 ## 4.1_C
 
 - 《C Primer Plus（第五版） 》 [百度网盘下载地址](https://pan.baidu.com/s/1ns7c4wdgX2kGF7b-tfvddA) 密码: uus6
-- 《C程序设计语言（第二版）》 [百度网盘下载地址](https://pan.baidu.com/s/1iUeG9OQ8zxUjUaZ6S_yYPg) 密码: dr4o
-- 《C和指针》 [百度网盘下载地址](https://pan.baidu.com/s/1G95oE5FXOpqlLIbXSg5SzQ) 密码: 5tn7
-- 《C专家编程》 [百度网盘下载链接](https://pan.baidu.com/s/1T5XsQt1zBDtxCv-P_ClTVQ)  密码: 0icw
+- 《C 程序设计语言（第2版）》 [百度网盘下载地址](https://pan.baidu.com/s/1QxZpeskRj6_yY-gw3MK60Q) 密码: 9ao0
+- 《C专家编程》 [百度网盘下载地址](https://pan.baidu.com/s/1O6KE_7EgGq1K3txvPtGQog) 密码: 1nps
+- 《C和指针（中文版）》 [百度网盘下载地址](https://pan.baidu.com/s/1o-ao8p3OubzsIJqftSZX6w) 密码: ka9o
 
 
 ## 4.2_Python
@@ -139,22 +139,23 @@
 ## 4.3_Cpp
 
 - 侯捷 C++ 全套视频（含课件） [百度网盘下载地址](https://pan.baidu.com/s/1hn9NSibZ9yuTJ3sbR1OjFg) 密码: xucd
-- 《C++ Primer 第五版》 [百度网盘下载地址](https://pan.baidu.com/s/1zIow56q1bhZr6RmTVRfSaw) 密码: 1dts
-- 《C++ 沉思录》 [百度网盘下载地址](https://pan.baidu.com/s/1TvRGrU3z-tjuibPyoKWrYg) 密码: vbb0
-- 《Effective C++ 中文（第三版）》 [百度网盘下载地址](https://pan.baidu.com/s/1aHD-KIhnO519qVXYgz1a_w) 密码: 7w1p
+- 《C++ Primer（第5版）》 [百度网盘下载地址](https://pan.baidu.com/s/1T9mkrHW32ZBA2aYGPrWbTw) 密码: 7b6g
+- 《Effective C++ 中文（第三版）》 [百度网盘下载地址](https://pan.baidu.com/s/16uAamemDYhv4mTsvQ4pZUw) 密码: 46tl
+- 《C++沉思录 第2版》 [百度网盘下载地址](https://pan.baidu.com/s/1MN45ZktHygoUqTPMGL3uLw) 密码: j8lu
+- 《深度探索C++对象模型》 [百度网盘下载地址](https://pan.baidu.com/s/1om36IF45j8m2oCjl3sL3VA) 密码: p1b9
 - 《跟我一起写 makefile》 [百度网盘下载地址](https://pan.baidu.com/s/1iuig5EmCtwl3K3JD-qxGUA) 密码: iuqh
 
 
 ## 4.4_Java
 
-- 《Java 核心技术卷1 - 基础知识 第10版》 [百度网盘下载地址](https://pan.baidu.com/s/1WPpUuiWXqOphZQjy0-0BwA) 密码: 3nd5
-- 《Java 核心技术卷2 - 高级特性 第10版》 [百度网盘下载地址](https://pan.baidu.com/s/1OZuckRmMjxHnbKWO-krzpA) 密码: eoeb
-- 《Java 8 实战》 [百度网盘下载地址](https://pan.baidu.com/s/1X61Lr9CJIKe-b_DSx5_wxw) 密码: go6k
-- 《Java 编程思想（第四版）》 [百度网盘下载地址](https://pan.baidu.com/s/1VP2Tfm-UPIb7UG82L62xlA) 密码: n7i2
-- 《Effective Java 中文（第二版）》 [百度网盘下载地址](https://pan.baidu.com/s/10kz_dC7DfRwuhBJuDsZJ9g) 密码: 9bq1
-- 《Java 并发编程实践》 [百度网盘下载地址](https://pan.baidu.com/s/1q4I8lzKuD7S6T5FoBNa02w) 密码: uhlu
-- 《Java 并发编程的艺术》 [百度网盘下载地址](https://pan.baidu.com/s/13gKYVw8do32J_lqWQSnryg) 密码: 15gc
-- 《深入分析 JavaWeb 技术内幕》 [百度网盘下载地址](https://pan.baidu.com/s/1rsMpFObjJTwpX9pEx_RYYQ) 密码: jam9
+- 《Java 核心技术 卷1 - 基础知识 第10版》 [百度网盘下载地址](https://pan.baidu.com/s/1T7ox5D3WGjJIv2wAFiOHHw) 密码: 10rq
+- 《Java 核心技术 卷2 - 高级特性 第10版》 [百度网盘下载地址](https://pan.baidu.com/s/1wBOVsQiKIfSr3tqYVEPkIQ) 密码: r55j
+- 《Java 8实战》 [百度网盘下载地址](https://pan.baidu.com/s/1kZqcMA-YEtVQnNMdsaD7Mw) 密码: irt6
+- 《Effective Java（第二版）》 [百度网盘下载地址](https://pan.baidu.com/s/1jTlIIiihaaL3dC4EDM_2AA) 密码: 2fem
+- 《Java编辑思想（第四版）》 [百度网盘下载地址](https://pan.baidu.com/s/1IPq8yWqCq4mA5mGFKFbH3Q) 密码: 3qlp
+- 《Java并发编程的艺术》 [百度网盘下载地址](https://pan.baidu.com/s/1hORoN3hLGkBGA84CSHma-g) 密码: te40
+- 《JAVA并发编程实践》 [百度网盘下载地址](https://pan.baidu.com/s/1ce7ukfEO393f0Wtb3ips3Q) 密码: acbs
+- 《深入分析 JavaWeb 技术内幕》 [百度网盘下载地址](https://pan.baidu.com/s/12AeOVAKNMW6Ulb63oTzVzA) 密码: 3dgk
 
 
 
