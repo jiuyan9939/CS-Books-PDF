@@ -141,8 +141,8 @@
 - 侯捷 C++ 全套视频（含课件） [百度网盘下载地址](https://pan.baidu.com/s/1hn9NSibZ9yuTJ3sbR1OjFg) 密码: xucd
 - 《C++ Primer 第五版》 [百度网盘下载地址](https://pan.baidu.com/s/1zIow56q1bhZr6RmTVRfSaw) 密码: 1dts
 - 《C++ 沉思录》 [百度网盘下载地址](https://pan.baidu.com/s/1TvRGrU3z-tjuibPyoKWrYg) 密码: vbb0
-
-
+- 《Effective C++ 中文（第三版）》 [百度网盘下载地址](https://pan.baidu.com/s/1aHD-KIhnO519qVXYgz1a_w) 密码: 7w1p
+- 《跟我一起写 makefile》 [百度网盘下载地址](https://pan.baidu.com/s/1iuig5EmCtwl3K3JD-qxGUA) 密码: iuqh
 
 
 ## 4.4_Java
@@ -151,7 +151,10 @@
 - 《Java 核心技术卷2 - 高级特性 第10版》 [百度网盘下载地址](https://pan.baidu.com/s/1OZuckRmMjxHnbKWO-krzpA) 密码: eoeb
 - 《Java 8 实战》 [百度网盘下载地址](https://pan.baidu.com/s/1X61Lr9CJIKe-b_DSx5_wxw) 密码: go6k
 - 《Java 编程思想（第四版）》 [百度网盘下载地址](https://pan.baidu.com/s/1VP2Tfm-UPIb7UG82L62xlA) 密码: n7i2
+- 《Effective Java 中文（第二版）》 [百度网盘下载地址](https://pan.baidu.com/s/10kz_dC7DfRwuhBJuDsZJ9g) 密码: 9bq1
 - 《Java 并发编程实践》 [百度网盘下载地址](https://pan.baidu.com/s/1q4I8lzKuD7S6T5FoBNa02w) 密码: uhlu
+- 《Java 并发编程的艺术》 [百度网盘下载地址](https://pan.baidu.com/s/13gKYVw8do32J_lqWQSnryg) 密码: 15gc
+- 《深入分析 JavaWeb 技术内幕》 [百度网盘下载地址](https://pan.baidu.com/s/1rsMpFObjJTwpX9pEx_RYYQ) 密码: jam9
 
 
 
