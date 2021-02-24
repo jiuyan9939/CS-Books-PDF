@@ -126,7 +126,12 @@
 # 4.语言
 ## 4.1_C
 
+- 《C Primer Plus（第五版） 》 [百度网盘下载地址](https://pan.baidu.com/s/1ns7c4wdgX2kGF7b-tfvddA) 密码: uus6
+- 《C程序设计语言（第二版）》 [百度网盘下载地址](https://pan.baidu.com/s/1iUeG9OQ8zxUjUaZ6S_yYPg) 密码: dr4o
+- 《C和指针》 [百度网盘下载地址](https://pan.baidu.com/s/1G95oE5FXOpqlLIbXSg5SzQ) 密码: 5tn7
 - 《C专家编程》 [百度网盘下载链接](https://pan.baidu.com/s/1T5XsQt1zBDtxCv-P_ClTVQ)  密码: 0icw
+
+
 ## 4.2_Python
 
 ### 4.2.1_Python爬虫
@@ -134,9 +139,21 @@
 ## 4.3_Cpp
 
 - 侯捷 C++ 全套视频（含课件） [百度网盘下载地址](https://pan.baidu.com/s/1hn9NSibZ9yuTJ3sbR1OjFg) 密码: xucd
+- 《C++ Primer 第五版》 [百度网盘下载地址](https://pan.baidu.com/s/1zIow56q1bhZr6RmTVRfSaw) 密码: 1dts
+- 《C++ 沉思录》 [百度网盘下载地址](https://pan.baidu.com/s/1TvRGrU3z-tjuibPyoKWrYg) 密码: vbb0
+
+
+
 
 ## 4.4_Java
-@TODO
+
+- 《Java 核心技术卷1 - 基础知识 第10版》 [百度网盘下载地址](https://pan.baidu.com/s/1WPpUuiWXqOphZQjy0-0BwA) 密码: 3nd5
+- 《Java 核心技术卷2 - 高级特性 第10版》 [百度网盘下载地址](https://pan.baidu.com/s/1OZuckRmMjxHnbKWO-krzpA) 密码: eoeb
+- 《Java 8 实战》 [百度网盘下载地址](https://pan.baidu.com/s/1X61Lr9CJIKe-b_DSx5_wxw) 密码: go6k
+- 《Java 编程思想（第四版）》 [百度网盘下载地址](https://pan.baidu.com/s/1VP2Tfm-UPIb7UG82L62xlA) 密码: n7i2
+- 《Java 并发编程实践》 [百度网盘下载地址](https://pan.baidu.com/s/1q4I8lzKuD7S6T5FoBNa02w) 密码: uhlu
+
+
 
 ## 4.5_Go
 @TODO
