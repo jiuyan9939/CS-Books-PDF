@@ -20,9 +20,12 @@
 - [4.语言](#4语言)
     - [4.1 C](#41_C)
     - [4.2 Python](#42_Python)
-        - [4.2.1 Python 爬虫](#421_Python爬虫)
+        - [4.2.1 Python 入门](#421_Python入门)
+        - [4.2.2 Python 爬虫](#422_Python爬虫)
     - [4.3 C++](#43_Cpp)
     - [4.4 Java](#44_Java)
+        - [4.4.1 Java基础、进阶](#441_Java入门及进阶)  
+        - [4.4.2 Java大数据](#442_Java大数据)  
     - [4.5 Go](#45_Go)
     - [4.6 R](#46_R)
 
@@ -134,8 +137,20 @@
 
 ## 4.2_Python
 
-### 4.2.1_Python爬虫
-@TODO
+### 4.2.1_Python入门
+
+- 《Python编程：从入门到实践》 [百度网盘下载地址](https://pan.baidu.com/s/1IBeZRMI4UArIwdMVm6AMnQ) 密码: sln9
+- 《Python开发实战》 [百度网盘下载地址](https://pan.baidu.com/s/1hJaiMAY4Q0jdtV1hAQGkqA) 密码: a7rn
+- 《Python编程快速上手 让繁琐工作自动化》 [百度网盘下载地址](https://pan.baidu.com/s/12G4hAsabpHNhSJ-TiwUv2A) 密码: einj
+- 《笨办法学Python（第四版）》 [百度网盘下载地址](https://pan.baidu.com/s/1wZl5mGPrwY0nG-tFL5JT9Q) 密码: 6lls
+- 《Python正则表达式深入浅出》 [百度网盘下载地址](https://pan.baidu.com/s/1rcfKyDaeOBHxqptLNjQ2Rw) 密码: hwqm
+- 《python操作word,excel,pdf》 [百度网盘下载地址](https://pan.baidu.com/s/1uyTkR66ehq--D9O8T4CDOw) 密码: hovn
+
+### 4.2.2_Python爬虫
+
+- 《精通Scrapy网络爬虫》 [百度网盘下载地址](https://pan.baidu.com/s/1wkM5daqliHZ-35kWouwiEA) 密码: 79co
+- 《Python3 网络爬虫开发实战-崔庆才》 [百度网盘下载地址](https://pan.baidu.com/s/1UhCDqTs1IIDDf6LUvWRYKA) 密码: dq4k
+
 ## 4.3_Cpp
 
 - 侯捷 C++ 全套视频（含课件） [百度网盘下载地址](https://pan.baidu.com/s/1hn9NSibZ9yuTJ3sbR1OjFg) 密码: xucd
@@ -148,6 +163,7 @@
 
 ## 4.4_Java
 
+### 4.4.1_Java入门及进阶
 - 《Java 核心技术 卷1 - 基础知识 第10版》 [百度网盘下载地址](https://pan.baidu.com/s/1T7ox5D3WGjJIv2wAFiOHHw) 密码: 10rq
 - 《Java 核心技术 卷2 - 高级特性 第10版》 [百度网盘下载地址](https://pan.baidu.com/s/1wBOVsQiKIfSr3tqYVEPkIQ) 密码: r55j
 - 《Java 8实战》 [百度网盘下载地址](https://pan.baidu.com/s/1kZqcMA-YEtVQnNMdsaD7Mw) 密码: irt6
@@ -155,7 +171,19 @@
 - 《Java编辑思想（第四版）》 [百度网盘下载地址](https://pan.baidu.com/s/1IPq8yWqCq4mA5mGFKFbH3Q) 密码: 3qlp
 - 《Java并发编程的艺术》 [百度网盘下载地址](https://pan.baidu.com/s/1hORoN3hLGkBGA84CSHma-g) 密码: te40
 - 《JAVA并发编程实践》 [百度网盘下载地址](https://pan.baidu.com/s/1ce7ukfEO393f0Wtb3ips3Q) 密码: acbs
+- 《深入理解Java虚拟机：JVM高级特性与最佳实践（最新第二版）》 [百度网盘下载地址](https://pan.baidu.com/s/1-mNzyvYcc_4c0XRj1D1V6g) 密码: 0jr6
+- 《《码出高效：Java开发手册》》 [百度网盘下载地址](https://pan.baidu.com/s/1ZzqYKr3PGiG_dVxAHQhG5Q) 密码: ql14
 - 《深入分析 JavaWeb 技术内幕》 [百度网盘下载地址](https://pan.baidu.com/s/12AeOVAKNMW6Ulb63oTzVzA) 密码: 3dgk
+
+### 4.4.2_Java大数据
+
+- 《大数据架构师指南》 [百度网盘下载地址](https://pan.baidu.com/s/1dO4A1vTWUpOrZxP7QDYsyg) 密码: 44mr
+- 《大数据之路：阿里巴巴大数据实践》 [百度网盘下载地址](https://pan.baidu.com/s/1UUaokQDpoQyDH4XA52uB-g) 密码: ba16
+- 《图解Spark 核心技术与案例实战》 [百度网盘下载地址](https://pan.baidu.com/s/1fdNg8L0qsrR0750b1espqQ) 密码: l7hm
+- 《深入理解Spark：核心思想与源码分析》 [百度网盘下载地址](https://pan.baidu.com/s/15ZvStvBwh32D9bep5F2faA) 密码: 7glq
+- 《Hadoop技术内幕：深入理解MapReduce架构设计与实现原理》 [百度网盘下载地址](https://pan.baidu.com/s/1_OZaQHnNroD-CANIeAhlTA) 密码: m390
+- 《Apache+Kylin权威指南》 [百度网盘下载地址](https://pan.baidu.com/s/1TqILlFF4YiJpJKQEDvp-lg) 密码: irvl
+
 
 
 
