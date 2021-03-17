@@ -29,6 +29,9 @@
         - [4.4.2 Java大数据](#442_Java大数据)  
     - [4.5 Go](#45_Go)
     - [4.6 R](#46_R)
+- [5.拓展](#5拓展)
+    - [5.1 美团技术文章汇总](#51_美团技术文章汇总)
+
 
 # 1.精选大学生必读书单
 
@@ -251,7 +254,16 @@
 @TODO
 
 
-# 5. 自我提升
+
+# 5.拓展
+## 5.1_美团技术文章汇总
+
+- 《2017美团技术文章汇总》链接: https://pan.baidu.com/s/1-FwElmkFDRQBoQNqkd5idA  密码: t4b5
+- 《2018美团技术文章汇总》链接: https://pan.baidu.com/s/1Xftmy8M64_jNR6rcj0PLyA  密码: hee8
+- 《2019美团技术文章汇总》链接: https://pan.baidu.com/s/117Ek8TTQXjyOPizmdvENsA  密码: 1k3p
+- 《2020美团技术文章汇总》链接: https://pan.baidu.com/s/152NBHZPmDF_bh9BE9uR2Tg  密码: v7cv
+
+# 6. 自我提升
 
 - 《编程珠玑》 [百度网盘下载地址](https://pan.baidu.com/s/1HGHhrq3nYXqvNNiDTngRWw) 密码: 6fm5
 
@@ -274,7 +286,7 @@
 - 《分布式系统概念与设计 原书第5版》 [百度网盘下载地址](https://pan.baidu.com/s/1xMA3FTvyCDtK2wESA7PRhA) 密码: lvf2
 
 
-# 5. 在线资料索引
+# 7. 在线资料索引
 
 - [鸟哥的Linux私房菜](http://linux.vbird.org/)
 - [Pro Git 中文版](http://git-scm.com/book/zh/v2)
@@ -287,7 +299,7 @@
 - [Effective Java 第3版中文版](https://github.com/sjsdfg/effective-java-3rd-chinese) 
 
 
-# 6. 免责声明
+# 8. 免责声明
 
 电子书/PDF/以上全部资源均来源于网络，如有侵权，请联系我进行删除。如造成不便，深感抱歉。我的邮箱：1441289747@qq.com
 
