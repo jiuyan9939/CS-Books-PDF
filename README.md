@@ -225,7 +225,7 @@
 - 《Java 核心技术 卷2 - 高级特性 第10版》 [百度网盘下载地址](https://pan.baidu.com/s/1wBOVsQiKIfSr3tqYVEPkIQ) 密码: r55j
 - 《Java 8实战》 [百度网盘下载地址](https://pan.baidu.com/s/1kZqcMA-YEtVQnNMdsaD7Mw) 密码: irt6
 - 《Effective Java（第二版）》 [百度网盘下载地址](https://pan.baidu.com/s/1jTlIIiihaaL3dC4EDM_2AA) 密码: 2fem
-- 《Java编辑思想（第四版）》 [百度网盘下载地址](https://pan.baidu.com/s/1IPq8yWqCq4mA5mGFKFbH3Q) 密码: 3qlp
+- 《Java编程思想（第四版）》 [百度网盘下载地址](https://pan.baidu.com/s/1WocAo8RRu83DzpqcmXdTLg) 密码: s3cj
 - 《Java并发编程的艺术》 [百度网盘下载地址](https://pan.baidu.com/s/1hORoN3hLGkBGA84CSHma-g) 密码: te40
 - 《JAVA并发编程实践》 [百度网盘下载地址](https://pan.baidu.com/s/1ce7ukfEO393f0Wtb3ips3Q) 密码: acbs
 - 《深入理解Java虚拟机：JVM高级特性与最佳实践（最新第二版）》 [百度网盘下载地址](https://pan.baidu.com/s/1-mNzyvYcc_4c0XRj1D1V6g) 密码: 0jr6
