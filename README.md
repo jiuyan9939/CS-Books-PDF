@@ -81,7 +81,7 @@
 
 - 《背包九讲》 [百度网盘下载地址](https://pan.baidu.com/s/1X5QGcljFYrE-EsxuNlOwIQ) 密码: 3bne
 
-- 《算法导论》大名鼎鼎的神书 [百度网盘下载地址](https://pan.baidu.com/s/1mIwDS0OvlFnF3DK9_fyecw) 密码: en8c
+- 《算法导论》大名鼎鼎的神书 [百度网盘下载地址](https://pan.baidu.com/s/1C61VKhaOyVSzilFY2-F0eA) 密码: ltks
 
 - 《算法》（第4版） [百度网盘下载地址](https://pan.baidu.com/s/1b1b_nudCsdBdBNa3Um-KTQ) 密码: qwvp
 
@@ -171,11 +171,10 @@
 # 4.语言
 ## 4.1_C
 
-- 《C Primer Plus（第五版） 》 [百度网盘下载地址](https://pan.baidu.com/s/1ns7c4wdgX2kGF7b-tfvddA) 密码: uus6
+- 《C Primer Plus（第五版） 》 [百度网盘下载地址](https://pan.baidu.com/s/1OodNaOG6UXRYFoSU3QTjqg) 密码: m516
 - 《C 程序设计语言（第2版）》 [百度网盘下载地址](https://pan.baidu.com/s/1QxZpeskRj6_yY-gw3MK60Q) 密码: 9ao0
 - 《C专家编程》 [百度网盘下载地址](https://pan.baidu.com/s/1O6KE_7EgGq1K3txvPtGQog) 密码: 1nps
 - 《C和指针（中文版）》 [百度网盘下载地址](https://pan.baidu.com/s/1o-ao8p3OubzsIJqftSZX6w) 密码: ka9o
-
 
 ## 4.2_Python
 
