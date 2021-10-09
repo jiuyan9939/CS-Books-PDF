@@ -171,7 +171,7 @@
 # 4.语言
 ## 4.1_C
 
-- 《C Primer Plus（第五版） 》 [百度网盘下载地址](https://pan.baidu.com/s/1OodNaOG6UXRYFoSU3QTjqg) 密码: m516
+- 《C Primer Plus（第五版） 》 [百度网盘下载地址](https://pan.baidu.com/s/1GdOBDHUT_yekldF9I3810g) 密码: 29p1
 - 《C 程序设计语言（第2版）》 [百度网盘下载地址](https://pan.baidu.com/s/1QxZpeskRj6_yY-gw3MK60Q) 密码: 9ao0
 - 《C专家编程》 [百度网盘下载地址](https://pan.baidu.com/s/1O6KE_7EgGq1K3txvPtGQog) 密码: 1nps
 - 《C和指针（中文版）》 [百度网盘下载地址](https://pan.baidu.com/s/1o-ao8p3OubzsIJqftSZX6w) 密码: ka9o
