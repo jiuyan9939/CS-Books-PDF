@@ -186,6 +186,7 @@
 - 《笨办法学Python（第四版）》 [百度网盘下载地址](https://pan.baidu.com/s/1wZl5mGPrwY0nG-tFL5JT9Q) 密码: 6lls
 - 《Python正则表达式深入浅出》 [百度网盘下载地址](https://pan.baidu.com/s/1rcfKyDaeOBHxqptLNjQ2Rw) 密码: hwqm
 - 《python操作word,excel,pdf》 [百度网盘下载地址](https://pan.baidu.com/s/1uyTkR66ehq--D9O8T4CDOw) 密码: hovn
+- 《编写高质量代码：改善Python程序的91个建议》[百度网盘下载地址](https://pan.baidu.com/s/1-hyHx5JbhAIGVW1dCa6hbQ) 密码:a5s0
 
 ### 4.2.2_Python爬虫
 
