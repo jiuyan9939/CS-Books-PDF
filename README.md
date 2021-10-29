@@ -266,6 +266,10 @@
 - 《2019美团技术文章汇总》链接: https://pan.baidu.com/s/117Ek8TTQXjyOPizmdvENsA  密码: 1k3p
 - 《2020美团技术文章汇总》链接: https://pan.baidu.com/s/152NBHZPmDF_bh9BE9uR2Tg  密码: v7cv
 
+## 5.2_CTF
+
+- 《从0到1：CTFer成长之路-Nu1L战队》链接: https://pan.baidu.com/s/1Fh3-z_s1PG-LwOpulcB5Tg  密码: 9btp
+
 # 6.自我提升
 
 - 《编程珠玑》 [百度网盘下载地址](https://pan.baidu.com/s/1HGHhrq3nYXqvNNiDTngRWw) 密码: 6fm5
