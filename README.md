@@ -31,6 +31,9 @@
     - [4.6 R](#46_R)
 - [5.拓展](#5拓展)
     - [5.1 美团技术文章汇总](#51_美团技术文章汇总)
+- [6.自我提升](#6自我提升)
+- [7.在线资料索引](#7在线资料索引)
+- [8.免责声明](#8免责声明)
 
 
 # 1.精选大学生必读书单
@@ -263,14 +266,13 @@
 - 《2019美团技术文章汇总》链接: https://pan.baidu.com/s/117Ek8TTQXjyOPizmdvENsA  密码: 1k3p
 - 《2020美团技术文章汇总》链接: https://pan.baidu.com/s/152NBHZPmDF_bh9BE9uR2Tg  密码: v7cv
 
-# 6. 自我提升
+# 6.自我提升
 
 - 《编程珠玑》 [百度网盘下载地址](https://pan.baidu.com/s/1HGHhrq3nYXqvNNiDTngRWw) 密码: 6fm5
 
 - 《编程珠玑-英文版》 [百度网盘下载地址](https://pan.baidu.com/s/19Io1bd_aBnTIUePLKg9M5Q) 密码: ov5n
 
 - 《编程之美》 [百度网盘下载地址](https://pan.baidu.com/s/1v--6scAEjkrBtgL_ufomsA) 密码: 5lre
-
 
 - 《程序员的算法趣题》 [百度网盘下载地址](https://pan.baidu.com/s/1-OBHQxZ6OQeQvDnL0Ziu2w) 密码: 12n2
 
@@ -286,7 +288,7 @@
 - 《分布式系统概念与设计 原书第5版》 [百度网盘下载地址](https://pan.baidu.com/s/1xMA3FTvyCDtK2wESA7PRhA) 密码: lvf2
 
 
-# 7. 在线资料索引
+# 7.在线资料索引
 
 - [鸟哥的Linux私房菜](http://linux.vbird.org/)
 - [Pro Git 中文版](http://git-scm.com/book/zh/v2)
@@ -299,7 +301,7 @@
 - [Effective Java 第3版中文版](https://github.com/sjsdfg/effective-java-3rd-chinese) 
 
 
-# 8. 免责声明
+# 8.免责声明
 
 电子书/PDF/以上全部资源均来源于网络，如有侵权，请联系我进行删除。如造成不便，深感抱歉。我的邮箱：1441289747@qq.com
 
